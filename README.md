@@ -12,7 +12,7 @@
 
 ## 🖼 Preview
 
-![Homepage Preview]()
+![Homepage Preview](https://github.com/SamaManavi/shab-landing-page/blob/main/Screenshot%202025-10-06%20195104.png?raw=true)
 
 ---
 
