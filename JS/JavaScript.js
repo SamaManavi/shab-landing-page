@@ -109,7 +109,6 @@ new Swiper('.swiper-magzine', {
 let topNav = document.getElementById("top-nav");
 let topSearch = document.getElementById("search");
 let searchBottom = document.getElementById("search-bottom");
-let hr = document.getElementById("hr");
 let navigation = document.getElementById("navigation");
 
 if(window.screenY > 100){
@@ -126,7 +125,6 @@ window.addEventListener("scroll", function () {
         topNav.style.boxShadow = "0 0 5px gray";
         searchBottom.classList.remove("d-none");
         searchBottom.classList.add("d-flex");
-        hr.classList.remove("d-none");
 
     } else {
 
@@ -136,7 +134,6 @@ window.addEventListener("scroll", function () {
         topNav.style.boxShadow = "none";
         searchBottom.classList.remove("d-flex");
         searchBottom.classList.add("d-none");
-        hr.classList.add("d-none");
     }
 });
 
