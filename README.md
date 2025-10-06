@@ -6,7 +6,7 @@
 
 ## 🖥 Live Demo
 
-👉 [View Live Demo]([https://your-demo-link.vercel.app](https://samamanavi.github.io/shab-landing-page/))
+👉 [View Live Demo]([[https://your-demo-link.vercel.app](https://samamanavi.github.io/shab-landing-page/)](https://samamanavi.github.io/shab-landing-page/))
 
 ---
 
